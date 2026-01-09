@@ -1,0 +1,47 @@
+{
+  "simulation_info": {
+    "date_run": "2026-01-09",
+    "duration_years": 40,
+    "timestep_years": 0.1,
+    "total_steps": 500
+  },
+  "grid": {
+    "nx": 20,
+    "ny": 20,
+    "nz": 5,
+    "lx": 10000,
+    "ly": 10000,
+    "lz": 100,
+    "total_cells": 2000
+  },
+  "rock_properties": {
+    "porosity": 0.2,
+    "permeability": 1e-13,
+    "S_wr": 0.2,
+    "S_gr": 0.15,
+    "compressibility": 1e-09,
+    "P_initial": 30000000.0,
+    "temperature": 353.15
+  },
+  "fluid_properties": {
+    "rho_co2": 700,
+    "rho_water": 1000,
+    "mu_co2": 5e-05,
+    "mu_water": 0.001
+  },
+  "injection_parameters": {
+    "rate_Mt_per_year": 10.0,
+    "duration_years": 40,
+    "timestep_years": 0.1
+  },
+  "results_summary": {
+    "total_injected_Mt": 15.841915199999999,
+    "total_stored_Mt": 3.421913575485217,
+    "structural_Mt": 2.9777112190560047,
+    "residual_Mt": 0.44419980562644396,
+    "solubility_Mt": 2.55080276807721e-06,
+    "storage_efficiency_percent": 21.600378062150067,
+    "max_pressure_MPa": 343.5900596686557,
+    "plume_extent_km2": 8.453125
+  }
+}
