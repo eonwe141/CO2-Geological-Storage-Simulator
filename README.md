@@ -97,7 +97,9 @@ GitHub: https://github.com/eonwe141/CO2-Geological-Storage-Simulator
 \```
 
 ## References
-
-1. Duan, Z., & Sun, R. (2003). CO2 solubility in seawater. Marine Chemistry.
-2. Bachu, S., & Sun, R. (2008). CO2 storage in geological media. Energy Conversion and Management.
-3. IPCC (2005). Special Report on Carbon Dioxide Capture and Storage.
+ 
+1. Brooks R, Corey T. Hydraulic properties of porous media. Hydrology Papers, Colorado State University. 1964;24:37. 
+2. Land CS. Calculation of Imbibition Relative Permeability for Two- and Three Phase Flow From Rock Properties. Society of Petroleum Engineers Journal. 1968;8(02):149–156. 
+3. Bachu S. Review of CO2 storage efficiency in deep saline aquifers. International Journal of Greenhouse Gas Control. 2015;40:188–202. 
+4. Celia MA, Nordbotten JM. Practical Modeling Approaches for Geological Storage of Carbon Dioxide. Groundwater. 2009;47(5):627–638. 
+5. Duan Z, Sun R. An improved model calculating CO2 solubility in pure water and aqueous NaCl solutions from 273 to 533 K and from 0 to 2000 bar. Chemical Geology. 2003;193(3):257–271. 
