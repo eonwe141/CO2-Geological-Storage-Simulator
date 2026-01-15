@@ -42,21 +42,21 @@ A Python-based numerical simulator for modeling CO2 injection and storage in dee
 ##  Installation
 
 ```bash
-# Clone the repository
+## Clone the repository
 git clone https://github.com/eonwe141/CO2-Geological-Storage-Simulator.git
 cd CO2-Geological-Storage-Simulator
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
-Requirements
-python
+
+## Requirements
 numpy>=1.21.0
 matplotlib>=3.4.0
 scipy>=1.7.0
 pandas>=1.3.0
- Usage
-Basic Simulation
-python
+
+## Usage
+# Basic Simulation
 from co2_storage_simulator import CO2Simulator
 
 # Initialize simulator
@@ -73,8 +73,8 @@ results = sim.run()
 sim.plot_saturation()
 sim.plot_pressure()
 sim.plot_trapping_mechanisms()
-Advanced Configuration
-python
+
+##Advanced Configuration
 # Custom reservoir parameters
 sim = CO2Simulator(
     permeability=100,  # mD
@@ -83,6 +83,7 @@ sim = CO2Simulator(
     temperature=45,  # °C
     salinity=0.1  # mol/L NaCl
 )
+
  Results
 Key Achievements
  Storage Capacity: 25 Mt CO2 over 50 years
