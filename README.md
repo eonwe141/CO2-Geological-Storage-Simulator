@@ -13,15 +13,15 @@ Python-based CO2 geological storage simulator with multi-mechanism trapping
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### ✅ Multi-Mechanism CO2 Trapping
+###  Multi-Mechanism CO2 Trapping
 - **Structural trapping**: Buoyancy-driven CO2 accumulation beneath caprock
 - **Residual trapping**: Immobilization through capillary effects
 - **Solubility trapping**: CO2 dissolution in formation brine
 - **Mineral trapping**: Long-term geochemical sequestration
 
-### 📊 Simulation Capabilities
+###  Simulation Capabilities
 
 | Feature | Specification | Significance |
 |---------|--------------|--------------|
@@ -31,7 +31,7 @@ Python-based CO2 geological storage simulator with multi-mechanism trapping
 | **Aquifer Depth** | 1000-1200 m | Supercritical CO2 conditions |
 | **Storage Efficiency** | 2.5% of pore volume | Optimized capacity utilization |
 
-### ⚙️ Technical Highlights
+###  Technical Highlights
 - ✅ Coupled multiphase flow: Two-phase (CO2-brine) system with phase transitions
 - ✅ Brooks-Corey model: Relative permeability and capillary pressure
 - ✅ Finite difference method: Implicit pressure, explicit saturation (IMPES)
@@ -39,7 +39,7 @@ Python-based CO2 geological storage simulator with multi-mechanism trapping
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository:
     git clone https://github.com/eonwe141/CO2-Geological-Storage-Simulator.git
@@ -56,7 +56,7 @@ Install dependencies:
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Basic Simulation
 
@@ -90,18 +90,18 @@ Install dependencies:
 
 ---
 
-## 📈 Results
+##  Results
 
 ### Key Achievements
 
-🎯 Storage Capacity: 25 Mt CO2 over 50 years  
-📊 Trapping Distribution:
+ Storage Capacity: 25 Mt CO2 over 50 years  
+ Trapping Distribution:
 - Structural: 65%
 - Residual: 22%
 - Solubility: 10%
 - Mineral: 3%
 
-🔬 Validation: Results consistent with field-scale CO2 storage projects (Sleipner, Norway)
+ Validation: Results consistent with field-scale CO2 storage projects (Sleipner, Norway)
 
 ### Visualization Outputs
 
@@ -113,7 +113,7 @@ The simulator generates:
 
 ---
 
-## 📚 Dataset & Methodology
+##  Dataset & Methodology
 
 ### Physical Model
 
@@ -142,7 +142,7 @@ The simulator solves:
 
 ---
 
-## 📖 Citation
+##  Citation
 
 If you use this simulator in your research, please cite:
 
@@ -162,7 +162,7 @@ Padder, A. (2026). Numerical Simulation of CO₂ Geological Storage in Deep Sali
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please:
 
@@ -174,20 +174,19 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 🔗 Links
+##  Links
 
 - **Publication**: https://doi.org/10.5281/zenodo.18259641
 - **GitHub Repository**: https://github.com/eonwe141/CO2-Geological-Storage-Simulator
-- **Version**: 1.0.0
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This research presents a comprehensive numerical framework for CO2 geological storage simulation with coupled trapping mechanisms, designed for academic research and educational purposes.
