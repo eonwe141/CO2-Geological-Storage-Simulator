@@ -2,9 +2,6 @@
 
 A Python-based numerical simulator for modeling CO2 injection and storage in deep saline aquifers with multi-mechanism trapping.
 
-# CO2-Geological-Storage-Simulator
-
-Python-based CO2 geological storage simulator with multi-mechanism trapping
 
 ## 📖 Publication
 
