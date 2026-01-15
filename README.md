@@ -3,7 +3,7 @@
 A Python-based numerical simulator for modeling CO2 injection and storage in deep saline aquifers with multi-mechanism trapping.
 
 
-## 📖 Publication
+##  Publication
 
 **Padder, A.** (2026). *Numerical Simulation of CO₂ Geological Storage in Deep Saline Aquifers: A Multiphase Flow Approach with Coupled Trapping Mechanisms* (1.0.0). Zenodo.
 
@@ -13,15 +13,15 @@ A Python-based numerical simulator for modeling CO2 injection and storage in dee
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### ✅ **Multi-Mechanism CO2 Trapping**
+###  **Multi-Mechanism CO2 Trapping**
 - **Structural trapping**: Buoyancy-driven CO2 accumulation beneath caprock
 - **Residual trapping**: Immobilization through capillary effects
 - **Solubility trapping**: CO2 dissolution in formation brine
 - **Mineral trapping**: Long-term geochemical sequestration
 
-### 📊 **Simulation Capabilities**
+###  **Simulation Capabilities**
 
 | Feature | Specification | Significance |
 |---------|--------------|--------------|
@@ -31,7 +31,7 @@ A Python-based numerical simulator for modeling CO2 injection and storage in dee
 | **Aquifer Depth** | 1000-1200 m | Supercritical CO2 conditions |
 | **Storage Efficiency** | 2.5% of pore volume | Optimized capacity utilization |
 
-### ⚙️ **Technical Highlights**
+###  **Technical Highlights**
 - ✅ **Coupled multiphase flow**: Two-phase (CO2-brine) system with phase transitions
 - ✅ **Brooks-Corey model**: Relative permeability and capillary pressure
 - ✅ **Finite difference method**: Implicit pressure, explicit saturation (IMPES)
@@ -39,7 +39,7 @@ A Python-based numerical simulator for modeling CO2 injection and storage in dee
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -54,7 +54,7 @@ numpy>=1.21.0
 matplotlib>=3.4.0
 scipy>=1.7.0
 pandas>=1.3.0
-💻 Usage
+ Usage
 Basic Simulation
 python
 from co2_storage_simulator import CO2Simulator
@@ -83,10 +83,10 @@ sim = CO2Simulator(
     temperature=45,  # °C
     salinity=0.1  # mol/L NaCl
 )
-📈 Results
+ Results
 Key Achievements
-🎯 Storage Capacity: 25 Mt CO2 over 50 years
-📊 Trapping Distribution:
+ Storage Capacity: 25 Mt CO2 over 50 years
+ Trapping Distribution:
 
 Structural: 65%
 
@@ -96,7 +96,7 @@ Solubility: 10%
 
 Mineral: 3%
 
-🔬 Validation: Results consistent with field-scale CO2 storage projects (Sleipner, Norway)
+ Validation: Results consistent with field-scale CO2 storage projects (Sleipner, Norway)
 
 Visualization Outputs
 The simulator generates:
@@ -109,7 +109,7 @@ Trapping mechanism time series
 
 Storage efficiency metrics
 
-📚 Dataset & Methodology
+ Dataset & Methodology
 Physical Model
 Reference Aquifer: Deep saline formation (1000-1200 m depth)
 Properties:
@@ -142,7 +142,7 @@ Time step: Adaptive (0.01-1 year)
 
 Convergence criterion: 10⁻⁶ relative error
 
-📖 Citation
+ Citation
 If you use this simulator in your research, please cite:
 
 text
@@ -163,7 +163,7 @@ Padder, A. (2026). Numerical Simulation of CO₂ Geological Storage in Deep Sali
 Aquifers: A Multiphase Flow Approach with Coupled Trapping Mechanisms (1.0.0). 
 Zenodo. https://doi.org/10.5281/zenodo.18259641
 
-🤝 Contributing
+ Contributing
 Contributions are welcome! Please:
 
 Fork the repository
@@ -176,15 +176,15 @@ Push to branch (git push origin feature/improvement)
 
 Open a Pull Request
 
-📄 License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🔗 Links
+ Links
 Publication: DOI: 10.5281/zenodo.18259641
 
 GitHub Repository: eonwe141/CO2-Geological-Storage-Simulator
 
 Version: 1.0.0
 
-🙏 Acknowledgments
+ Acknowledgments
 This research presents a comprehensive numerical framework for CO2 geological storage simulation with coupled trapping mechanisms, designed for academic research and educational purposes.
