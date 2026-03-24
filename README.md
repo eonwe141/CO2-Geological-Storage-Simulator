@@ -1,4 +1,4 @@
-%%writefile README.md
+
 # CO2-Geological-Storage-Simulator
 
 Python-based CO2 geological storage simulator with multi-mechanism trapping.
